@@ -114,7 +114,7 @@ h3 {
 
 .header {
   margin-top: 3.8rem;
-  background-image: url("Images\hero-image.jpg");
+  background-image: url("/Images/hero-image.jpg");
   background-color: #212121;
   width: 100%;
   min-height: 100vh;
