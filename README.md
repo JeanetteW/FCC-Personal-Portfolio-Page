@@ -7,7 +7,7 @@ All tests were passed.
 
 In this project I discovered the Universal selector. Very powerful and useful, but can be very dangerous.
 
-I also looked into the code of the example page in Codepen looking for help with the media queries. The explanation given in the notes about setting font sizes using percentage as well using em for screen sizes was extremely insightful and I did a lot of reading on this subject. Some of these concepts were not handled in the course work, but looking at the notes in the example and reading on these concepts from other sources was extremely helpful.
+I also looked into the code of the example page in Codepen to see how the contact links were animated to move and found a great explanation for resizing fonts with media queries. The explanation given in the notes about setting font sizes using percentage as well as using em for screen sizes was extremely insightful and I did a lot of reading on this subject. Some of these concepts were not handled in the course work, but looking at the notes in the example and reading on these concepts from other sources was extremely helpful.
 
 The horizontal rule styling by Alessandra Davila made me look at pseudo elements a bit closer since I never completely understood the concept. They are gold when it comes to styling.
 
