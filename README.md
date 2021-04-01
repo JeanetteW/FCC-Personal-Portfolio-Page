@@ -19,6 +19,8 @@ The horizontal rule used on the page was from an [article](https://uicookies.com
 
 [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) has 3 amazing videos on pseudo elements on his Youtube channel.
 
-Images are all from [Pexels](https://www.pexels.com/)
-Hero image of laptop by [Andrew Neel](https://www.pexels.com/@andrew)
-Under construction image in the projects section by [Fernando Arco](https://www.pexels.com/@ferarcosn)
+Images are all from [Pexels](https://www.pexels.com/).
+
+Hero image of laptop by [Andrew Neel](https://www.pexels.com/@andrew).
+
+Under construction image in the projects section by [Fernando Arco](https://www.pexels.com/@ferarcosn).
